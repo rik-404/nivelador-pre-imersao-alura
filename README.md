@@ -9,7 +9,6 @@ Este projeto foi desenvolvido como parte do curso **HTML e CSS: Ambientes de Des
 ## Funcionalidades
 - Estruturação semântica com HTML
 - Estilização personalizada com CSS
-- Design responsivo para diferentes dispositivos
 
 ## Como Executar o Projeto
 1. Clone o repositório:
