@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte do curso **HTML e CSS: Ambientes de Des
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd nivelador-alura
+   cd nivelador-pre-imersao-alura
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
