@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como parte do curso **HTML e CSS: Ambientes de Des
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nivelador-alura.git
+   git clone https://github.com/rik-404/nivelador-pre-imersao-alura.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
